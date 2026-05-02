@@ -1,0 +1,9 @@
+node_modules
+.git
+.gitignore
+.vercel
+.prettierrc.json
+.prettierignore
+.htmlhintrc
+.stylelintrc.json
+eslint.config.mjs
